@@ -11,13 +11,13 @@
 - Click Add roles and features.
 - Select Role-based or feature-based installation, and choose your server.
 
- ![Role Services](/Images/Images/IIS iNSTALLATIONS.png)
+ ![Role Services](../Images/Images/IIS iNSTALLATIONS.png)
 
 - Scroll through Server Roles and click Web Server (IIS).
 - Add any additional IIS features you wish to install.
 - Click Install to start the installation process.
 
-![Installation](/Images/Domain%20Setting.pngImages/IIS Installation Progress.png)
+![Installation](../Images/Domain%20Setting.pngImages/IIS Installation Progress.png)
 
 
 ### Create the web application
